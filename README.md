@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alan Fadigas
 
-<!--
-**AlanFadigas/alanfadigas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
+Atuo na área de Tecnologia da Informação com foco em backend, automação e qualidade de software (QA).
 
-Here are some ideas to get you started:
+Tenho experiência com Google Forms, Apps Script e PHP (nível básico), além de conhecimentos em bancos de dados como MySQL e PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também atuo com análise de testes e validação de sistemas, buscando garantir qualidade e eficiência nas soluções desenvolvidas.
+
+Atualmente estou em constante evolução, desenvolvendo habilidades práticas em projetos voltados a soluções digitais.
+
+---
+
+## 🛠️ Tecnologias
+- PHP (básico)
+- MySQL
+- PostgreSQL
+- Google Apps Script
+- Excel
+
+---
+
+## 🎯 Foco atual
+- Desenvolvimento backend
+- Automação de processos
+- Qualidade de software (QA)
+- Soluções digitais
